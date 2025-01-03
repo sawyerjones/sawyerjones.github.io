@@ -8,7 +8,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Add intersection observer for fade-in animations (optional)
+// Add intersection observer for fade-in animations
 const observerOptions = {
     threshold: 0.1
 };

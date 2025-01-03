@@ -213,7 +213,7 @@ h2 {
 }
 /* NAV BAR */
 .navbar {
-    background-color: white;
+    background-color: #f8f9fa;
     padding: 1rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: sticky;
@@ -329,6 +329,12 @@ h2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+}
+
+.project-image video {
+    width: 100%;
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .project-image img {

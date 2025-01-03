@@ -1,11 +1,5 @@
-# sawyerjones.github.io
-
-TODO: 
-- Finish View project section
-- Add images to projects page
-- Add demos?
+# TODO:
+- Find better image/video for HealthApp --> fit 3 screenshots of different pages?
+- Add images to landing page/change name section, doesn't look right
 - Finalize styling/spelling
 
-
-
-create demo for research project, 
