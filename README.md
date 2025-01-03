@@ -1,3 +1,11 @@
 # sawyerjones.github.io
 
-TODO: Add about me section, create demo for research project, make projects clickable so they navigate to a new page displaying detailed information(demo/image)
+TODO: 
+- Finish View project section
+- Add images to projects page
+- Add demos?
+- Finalize styling/spelling
+
+
+
+create demo for research project, 
