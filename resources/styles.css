@@ -26,11 +26,24 @@ body {
 .name-link:hover {
     color: #2b6cb0;
 }
-
+/* HERO */
 .hero {
     background-color: white;
-    padding: 4rem 0;
+    padding: 2rem 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.hero-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    gap: 2rem;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
 }
 
 .hero h1 {
@@ -58,6 +71,19 @@ body {
 
 .social-icon:hover {
     color: #2b6cb0;
+}
+
+.hero-banner {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 /* PROJECTS (home page) */
@@ -256,7 +282,7 @@ h2 {
 
 .profile-pic {
     width: 100%;
-    max-width: 300px;
+    max-width: 400px;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
